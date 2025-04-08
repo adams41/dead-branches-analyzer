@@ -1,4 +1,5 @@
 Dead Branches Analyzer
+
 Keep your GitHub repos clean! This tool helps you find and clean up inactive branches in your repository. If a branch hasn’t seen any action in a while, this tool will let you know. 🚀
 
 Why You Need It:
