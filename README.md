@@ -3,9 +3,11 @@ Dead Branches Analyzer
 Keep your GitHub repos clean! This tool helps you find and clean up inactive branches in your repository. If a branch hasn’t seen any action in a while, this tool will let you know. 🚀
 
 Why You Need It:
+
 Over time, repositories can accumulate old branches that aren't being used anymore. This clutter can make it harder to navigate and maintain your projects. Dead Branches Analyzer automatically helps you identify branches that haven't been updated for a while, so you can clean up your repo and keep it neat and tidy.
 
 Features:
+
 Find inactive branches: See which branches haven’t been touched in months.
 
 Track last commit dates: Get the exact date of the last commit for each branch.
